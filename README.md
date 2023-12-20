@@ -2,6 +2,7 @@
 
 ## User guide
 ### Python package
+### whl файл находится в папке dist
 #### Installation
 ```bash
 pip install job-laucnher
